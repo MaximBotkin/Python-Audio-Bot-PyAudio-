@@ -4,8 +4,6 @@ import speech_recognition as sr
 import webbrowser
 import re
 import datetime
-from bs4 import BeautifulSoup as soup
-import wikipedia
 
 
 def talk(words):
