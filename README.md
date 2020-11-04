@@ -1,1 +1,1 @@
-# Python-Audio-Bot-PyAudio-
+# Python-Audio-Bot-PyAudio-RUS
